@@ -1,7 +1,9 @@
-* How Long To Beat CLI
+# How Long To Beat CLI
+
+Simple CLI wrapper around [https://www.npmjs.com/package/howlongtobeat](howlongtobeat).
 
 Usage
 
-```javascript
+```
 node index.js <searchterm> [additional-searchterms...]
 ```
