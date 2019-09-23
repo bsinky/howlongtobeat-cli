@@ -1,0 +1,25 @@
+{
+  "name": "howlongtobeat-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI wrapper around [https://www.npmjs.com/package/howlongtobeat](howlongtobeat).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hltb": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsinky/howlongtobeat-cli.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bsinky/howlongtobeat-cli/issues"
+  },
+  "homepage": "https://github.com/bsinky/howlongtobeat-cli#readme",
+  "dependencies": {
+    "howlongtobeat": "^1.1.1",
+    "minimist": "^1.2.0"
+  }
+}
