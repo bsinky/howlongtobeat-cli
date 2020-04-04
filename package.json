@@ -20,6 +20,6 @@
   "homepage": "https://github.com/bsinky/howlongtobeat-cli#readme",
   "dependencies": {
     "howlongtobeat": "^1.1.1",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   }
 }
